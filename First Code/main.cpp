@@ -333,4 +333,4 @@ int main() {
     shuffle_array(staff, sizeof(staff) / sizeof(staff[0]));
     play();
     return 0;
-};
+}
