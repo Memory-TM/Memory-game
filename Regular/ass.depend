@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1648233160 source:g:\project\ass\main.cpp
+	<bits/stdc++.h>
+	<time.h>
+
+1650911200 source:f:\projects\code blocks project\ass\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<cstring>
+	<bits/stdc++.h>
+	<cmath>
+	<unistd.h>
+
